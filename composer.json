@@ -1,7 +1,7 @@
 {
     "name": "andrey-tech/utils-php",
     "description": "Набор трейтов, содержащих общие вспомогательные методы для работы с файлами, каталогами, данными в формате JSON и т.п.",
-    "keywords": [ "utils", "files", "json" ],
+    "keywords": [ "utils", "files", "json", "common", "traits" ],
     "homepage": "https://github.com/andrey-tech/utils-php",
     "minimum-stability": "stable",
     "license": "MIT",
